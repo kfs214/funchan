@@ -43,7 +43,7 @@
 <path d="M889.416 533.971C889.416 533.971 894.775 529.056 898.065 520.71C901.355 512.365 900.178 503.804 900.178 503.804" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="7.62"/>
 </g>
 </g>
-<path d="M359.142 673.75C359.142 673.75 402.108 739.165 464.107 738.506C526.105 737.847 607.136 671.115 607.136 671.115" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="12.7"/>
+<path d="M359.142 673.75C359.142 673.75 402.108 739.165 464.107 738.506C526.105 737.847 607.136 671.115 607.136 671.115" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.7"/>
 <path d="M362.114 399.013C362.114 380.726 375.786 365.902 392.652 365.902C409.518 365.902 423.19 380.726 423.19 399.013C423.19 417.3 409.518 432.124 392.652 432.124C375.786 432.124 362.114 417.3 362.114 399.013Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
 <path d="M550.869 404.107C550.869 385.82 564.541 370.996 581.407 370.996C598.273 370.996 611.945 385.82 611.945 404.107C611.945 422.393 598.273 437.218 581.407 437.218C564.541 437.218 550.869 422.393 550.869 404.107Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
 </g>
