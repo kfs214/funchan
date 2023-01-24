@@ -1,7 +1,7 @@
 # Funchan.svg
 
-Helpful LINE stickers for Japanese Communication.  
-Funchan is a fairy of fundoshi.  
+Useful LINE stickers for Japanese Communication.  
+Funchan is a fantastic fairy of fundoshi.  
 Created by Kazuki Ushijima.
 
 ## stickers are available here!
