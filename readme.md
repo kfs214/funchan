@@ -8,3 +8,4 @@ Created by Kazuki Ushijima.
 
 - [Funchan](https://store.line.me/stickershop/product/1232156)
 - [Funchan2](https://store.line.me/stickershop/product/17965281)
+
